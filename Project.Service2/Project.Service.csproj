@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Project.Service2\Project.Service.csproj" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
